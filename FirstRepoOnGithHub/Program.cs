@@ -6,7 +6,7 @@
         {
             Console.Write("Give in your name: ");
             string name = Console.ReadLine();
-
+//comment
 
         }
     }
