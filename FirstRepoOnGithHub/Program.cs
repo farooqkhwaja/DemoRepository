@@ -5,9 +5,8 @@
         static void Main(string[] args)
         {
             Console.Write("Give in your name: ");
-            string name = Console.ReadLine();
-//comment
-// second comment
+            var name = Console.ReadLine();
+            var number = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
